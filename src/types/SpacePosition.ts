@@ -1,0 +1,1 @@
+export type SpacePosition = 'start' | 'end' | 'any' | 'both';

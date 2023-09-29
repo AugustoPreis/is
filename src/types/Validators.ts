@@ -1,0 +1,1 @@
+export type Validators = 'array' | 'boolean' | 'date' | 'number' | 'object' | 'string';
